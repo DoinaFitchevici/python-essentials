@@ -1,5 +1,5 @@
 {
-  "id": "689b76167486cf31a015491b",
+  "id": "689b8dccf358508a02d9f6f5",
   "title": "Python Essentials",
   "description": "No description available",
   "learningObjectives": [
@@ -20,8 +20,8 @@
   "contributors": [],
   "status": "pending",
   "originalGithubUrl": "https://github.com/Code-the-Dream-School/python-essentials",
-  "remoteGithubUrl": "https://github.com/DoinaFitchevici/python-essentials",
-  "createdAt": "2025-08-12T17:12:54.328Z",
-  "updatedAt": "2025-08-12T17:12:54.905Z",
+  "remoteGithubUrl": null,
+  "createdAt": "2025-08-12T18:54:04.612Z",
+  "updatedAt": "2025-08-12T18:54:25.180Z",
   "lessonCount": 16
 }
